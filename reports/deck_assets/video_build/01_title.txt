@@ -1,0 +1,1 @@
+Contract IQ. A I Contract Intelligence and Risk Analysis. A local-first contract review tool, built end to end in Python and React. This video walks through the problem, the machine learning behind it, and a live demonstration.

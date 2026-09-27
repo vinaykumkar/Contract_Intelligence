@@ -1,0 +1,1 @@
+Deployment and privacy. The production build serves the React app and the A P I from a single Fast A P I process on one port. Uploads are validated and stored under generated names, path traversal is neutralized, and contract text is never written to logs. Nothing ever leaves the machine. The project is published on GitHub, with the fine tuned model attached as a release asset.
